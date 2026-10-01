@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante da Universidade Lúrio 
+Engenheiro Informatico
 
 
 # 💻 Tech Stack:
